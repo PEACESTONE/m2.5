@@ -1,4 +1,4 @@
-																																																																					# Versiones disponibles
+1# Versiones disponibles
 # forge, mohist, fabric, vanilla, paper
 
 # Puedes instalar mohist después de instalar forge desde el menú de gestionar
@@ -7,7 +7,6 @@
 
 # Regiones de ngrok
 # Código          Lugar
-#-----------      ---------------------------
 # ap	          Asia / Pacífico (Singapore)
 # au		      Australia (Sydney)
 # eu		      Europa (Frankfurt)
