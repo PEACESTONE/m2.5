@@ -1,520 +1,342 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0mGot Error
-MSG: Failed to load data from api
-retrying in 3 seconds
-Error: TooManyRequests
-[2J8[0msecret key valid, agent has 0 tunnelsoad latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1726275571209 tunnel running, 0 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1732317237950 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-Add tunnels here: https://playit.gg/account/agents/0bcf3612-db22-481f-9450-07b5bbd6443e
-[2J8[0mplayit (v0.15.23): 1726275574267 tunnel running, 0 tunnels registered
+fee-shame.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732317241076 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-Add tunnels here: https://playit.gg/account/agents/0bcf3612-db22-481f-9450-07b5bbd6443e
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1726275589349 tunnel running, 0 tunnels registered
+fee-shame.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732317244136 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-Add tunnels here: https://playit.gg/account/agents/0bcf3612-db22-481f-9450-07b5bbd6443e
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1726275604444 tunnel running, 0 tunnels registered
+fee-shame.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732317247203 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-Add tunnels here: https://playit.gg/account/agents/0bcf3612-db22-481f-9450-07b5bbd6443e
-[2J8[0mplayit (v0.15.23): 1726275607500 tunnel running, 0 tunnels registered
+fee-shame.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732317250262 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-Add tunnels here: https://playit.gg/account/agents/0bcf3612-db22-481f-9450-07b5bbd6443e
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1726275622671 tunnel running, 0 tunnels registered
+fee-shame.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732317253334 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-Add tunnels here: https://playit.gg/account/agents/0bcf3612-db22-481f-9450-07b5bbd6443e
-[2J8[0mplayit (v0.15.23): 1726275625740 tunnel running, 0 tunnels registered
+fee-shame.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732317256391 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-Add tunnels here: https://playit.gg/account/agents/0bcf3612-db22-481f-9450-07b5bbd6443e
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1726275640825 tunnel running, 0 tunnels registered
+fee-shame.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732317259453 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-Add tunnels here: https://playit.gg/account/agents/0bcf3612-db22-481f-9450-07b5bbd6443e
-[2J8[0mplayit (v0.15.23): 1726275643904 tunnel running, 0 tunnels registered
+fee-shame.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732317262518 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-Add tunnels here: https://playit.gg/account/agents/0bcf3612-db22-481f-9450-07b5bbd6443e
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1726275658996 tunnel running, 0 tunnels registered
+fee-shame.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732317265575 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-Add tunnels here: https://playit.gg/account/agents/0bcf3612-db22-481f-9450-07b5bbd6443e
-[2J8[0mplayit (v0.15.23): 1726275662068 tunnel running, 0 tunnels registered
+fee-shame.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732317268638 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-Add tunnels here: https://playit.gg/account/agents/0bcf3612-db22-481f-9450-07b5bbd6443e
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1726275677189 tunnel running, 0 tunnels registered
+fee-shame.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732317271700 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-Add tunnels here: https://playit.gg/account/agents/0bcf3612-db22-481f-9450-07b5bbd6443e
-[2J8[0mplayit (v0.15.23): 1726275680255 tunnel running, 0 tunnels registered
+fee-shame.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732317274756 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-Add tunnels here: https://playit.gg/account/agents/0bcf3612-db22-481f-9450-07b5bbd6443e
-[2J8[0mplayit (v0.15.23): 1726275683319 tunnel running, 0 tunnels registered
+fee-shame.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732317277852 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-Add tunnels here: https://playit.gg/account/agents/0bcf3612-db22-481f-9450-07b5bbd6443e
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1726275698417 tunnel running, 0 tunnels registered
+fee-shame.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732317280908 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-Add tunnels here: https://playit.gg/account/agents/0bcf3612-db22-481f-9450-07b5bbd6443e
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1726275713517 tunnel running, 0 tunnels registered
+fee-shame.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732317283970 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-Add tunnels here: https://playit.gg/account/agents/0bcf3612-db22-481f-9450-07b5bbd6443e
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1726275728605 tunnel running, 0 tunnels registered
+fee-shame.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732317287063 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-Add tunnels here: https://playit.gg/account/agents/0bcf3612-db22-481f-9450-07b5bbd6443e
-[2J8[0mplayit (v0.15.23): 1726275731666 tunnel running, 0 tunnels registered
+fee-shame.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732317290130 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-Add tunnels here: https://playit.gg/account/agents/0bcf3612-db22-481f-9450-07b5bbd6443e
-[2J8[0mplayit (v0.15.23): 1726275734731 tunnel running, 0 tunnels registered
+fee-shame.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732317293189 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-Add tunnels here: https://playit.gg/account/agents/0bcf3612-db22-481f-9450-07b5bbd6443e
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1726275749850 tunnel running, 0 tunnels registered
+fee-shame.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732317296256 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-Add tunnels here: https://playit.gg/account/agents/0bcf3612-db22-481f-9450-07b5bbd6443e
-[2J8[0mplayit (v0.15.23): 1726275752917 tunnel running, 0 tunnels registered
+fee-shame.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732317299325 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-Add tunnels here: https://playit.gg/account/agents/0bcf3612-db22-481f-9450-07b5bbd6443e
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1726275768011 tunnel running, 0 tunnels registered
+fee-shame.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732317302386 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-Add tunnels here: https://playit.gg/account/agents/0bcf3612-db22-481f-9450-07b5bbd6443e
-[2J8[0mplayit (v0.15.23): 1726275771075 tunnel running, 0 tunnels registered
+fee-shame.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732317305464 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-Add tunnels here: https://playit.gg/account/agents/0bcf3612-db22-481f-9450-07b5bbd6443e
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1726275786334 tunnel running, 0 tunnels registered
+fee-shame.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732317308538 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-Add tunnels here: https://playit.gg/account/agents/0bcf3612-db22-481f-9450-07b5bbd6443e
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1726275801428 tunnel running, 0 tunnels registered
+fee-shame.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732317311601 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-Add tunnels here: https://playit.gg/account/agents/0bcf3612-db22-481f-9450-07b5bbd6443e
-[2J8[0mplayit (v0.15.23): 1726275804490 tunnel running, 0 tunnels registered
+fee-shame.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732317314661 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-Add tunnels here: https://playit.gg/account/agents/0bcf3612-db22-481f-9450-07b5bbd6443e
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1726275819593 tunnel running, 0 tunnels registered
+fee-shame.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732317317722 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-Add tunnels here: https://playit.gg/account/agents/0bcf3612-db22-481f-9450-07b5bbd6443e
-[2J8[0mplayit (v0.15.23): 1726275822654 tunnel running, 0 tunnels registered
+fee-shame.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732317320800 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-Add tunnels here: https://playit.gg/account/agents/0bcf3612-db22-481f-9450-07b5bbd6443e
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1726275837744 tunnel running, 0 tunnels registered
+fee-shame.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732317323871 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-Add tunnels here: https://playit.gg/account/agents/0bcf3612-db22-481f-9450-07b5bbd6443e
-[2J8[0mplayit (v0.15.23): 1726275840805 tunnel running, 0 tunnels registered
+fee-shame.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732317326922 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-Add tunnels here: https://playit.gg/account/agents/0bcf3612-db22-481f-9450-07b5bbd6443e
-[2J8[0mplayit (v0.15.23): 1726275843863 tunnel running, 0 tunnels registered
+fee-shame.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732317329979 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-Add tunnels here: https://playit.gg/account/agents/0bcf3612-db22-481f-9450-07b5bbd6443e
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1726275859040 tunnel running, 0 tunnels registered
+fee-shame.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732317333041 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-Add tunnels here: https://playit.gg/account/agents/0bcf3612-db22-481f-9450-07b5bbd6443e
-[2J8[0mplayit (v0.15.23): 1726275862098 tunnel running, 0 tunnels registered
+fee-shame.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732317336109 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-Add tunnels here: https://playit.gg/account/agents/0bcf3612-db22-481f-9450-07b5bbd6443e
-[2J8[0mplayit (v0.15.23): 1726275865244 tunnel running, 0 tunnels registered
+fee-shame.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732317339165 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-Add tunnels here: https://playit.gg/account/agents/0bcf3612-db22-481f-9450-07b5bbd6443e
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1726275880369 tunnel running, 0 tunnels registered
+fee-shame.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732317342218 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-Add tunnels here: https://playit.gg/account/agents/0bcf3612-db22-481f-9450-07b5bbd6443e
-[2J8[0mplayit (v0.15.23): 1726275883445 tunnel running, 0 tunnels registered
+fee-shame.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732317345278 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-Add tunnels here: https://playit.gg/account/agents/0bcf3612-db22-481f-9450-07b5bbd6443e
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1726275898540 tunnel running, 0 tunnels registered
+fee-shame.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732317348341 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-Add tunnels here: https://playit.gg/account/agents/0bcf3612-db22-481f-9450-07b5bbd6443e
-[2J8[0mplayit (v0.15.23): 1726275901603 tunnel running, 0 tunnels registered
+fee-shame.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732317351420 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-Add tunnels here: https://playit.gg/account/agents/0bcf3612-db22-481f-9450-07b5bbd6443e
-[2J8[0mplayit (v0.15.23): 1726275904661 tunnel running, 0 tunnels registered
+fee-shame.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732317354480 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-Add tunnels here: https://playit.gg/account/agents/0bcf3612-db22-481f-9450-07b5bbd6443e
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1726275919770 tunnel running, 0 tunnels registered
+fee-shame.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732317357545 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-Add tunnels here: https://playit.gg/account/agents/0bcf3612-db22-481f-9450-07b5bbd6443e
-[2J8[0mplayit (v0.15.23): 1726275922831 tunnel running, 0 tunnels registered
+fee-shame.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732317360603 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-Add tunnels here: https://playit.gg/account/agents/0bcf3612-db22-481f-9450-07b5bbd6443e
-[2J8[0mplayit (v0.15.23): 1726275925892 tunnel running, 0 tunnels registered
+fee-shame.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732317363661 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-Add tunnels here: https://playit.gg/account/agents/0bcf3612-db22-481f-9450-07b5bbd6443e
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1726275940977 tunnel running, 0 tunnels registered
+fee-shame.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732317366724 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-Add tunnels here: https://playit.gg/account/agents/0bcf3612-db22-481f-9450-07b5bbd6443e
-[2J8[0mplayit (v0.15.23): 1726275944035 tunnel running, 0 tunnels registered
+fee-shame.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732317369783 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-Add tunnels here: https://playit.gg/account/agents/0bcf3612-db22-481f-9450-07b5bbd6443e
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1726275959127 tunnel running, 0 tunnels registered
+fee-shame.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732317372844 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-Add tunnels here: https://playit.gg/account/agents/0bcf3612-db22-481f-9450-07b5bbd6443e
-[2J8[0mplayit (v0.15.23): 1726275962195 tunnel running, 0 tunnels registered
+fee-shame.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732317375897 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-Add tunnels here: https://playit.gg/account/agents/0bcf3612-db22-481f-9450-07b5bbd6443e
-[2J8[0mplayit (v0.15.23): 1726275965251 tunnel running, 0 tunnels registered
+fee-shame.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732317378951 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-Add tunnels here: https://playit.gg/account/agents/0bcf3612-db22-481f-9450-07b5bbd6443e
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1726275980361 tunnel running, 0 tunnels registered
+fee-shame.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732317382024 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-Add tunnels here: https://playit.gg/account/agents/0bcf3612-db22-481f-9450-07b5bbd6443e
-[2J8[0mplayit (v0.15.23): 1726275983420 tunnel running, 0 tunnels registered
+fee-shame.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732317385094 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-Add tunnels here: https://playit.gg/account/agents/0bcf3612-db22-481f-9450-07b5bbd6443e
-[2J8[0mplayit (v0.15.23): 1726275986485 tunnel running, 0 tunnels registered
+fee-shame.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732317388155 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-Add tunnels here: https://playit.gg/account/agents/0bcf3612-db22-481f-9450-07b5bbd6443e
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1726276001615 tunnel running, 0 tunnels registered
+fee-shame.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732317391248 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-Add tunnels here: https://playit.gg/account/agents/0bcf3612-db22-481f-9450-07b5bbd6443e
-[2J8[0mplayit (v0.15.23): 1726276004688 tunnel running, 0 tunnels registered
+fee-shame.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732317394313 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-Add tunnels here: https://playit.gg/account/agents/0bcf3612-db22-481f-9450-07b5bbd6443e
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1726276019790 tunnel running, 0 tunnels registered
+fee-shame.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732317397371 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-Add tunnels here: https://playit.gg/account/agents/0bcf3612-db22-481f-9450-07b5bbd6443e
-[2J8[0mplayit (v0.15.23): 1726276022859 tunnel running, 0 tunnels registered
+fee-shame.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732317400430 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-Add tunnels here: https://playit.gg/account/agents/0bcf3612-db22-481f-9450-07b5bbd6443e
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1726276037952 tunnel running, 0 tunnels registered
+fee-shame.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732317403501 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-Add tunnels here: https://playit.gg/account/agents/0bcf3612-db22-481f-9450-07b5bbd6443e
-[2J8[0mplayit (v0.15.23): 1726276041013 tunnel running, 0 tunnels registered
+fee-shame.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732317406565 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-Add tunnels here: https://playit.gg/account/agents/0bcf3612-db22-481f-9450-07b5bbd6443e
-[2J8[0mplayit (v0.15.23): 1726276044081 tunnel running, 0 tunnels registered
+fee-shame.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732317409623 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-Add tunnels here: https://playit.gg/account/agents/0bcf3612-db22-481f-9450-07b5bbd6443e
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1726276059193 tunnel running, 0 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-Add tunnels here: https://playit.gg/account/agents/0bcf3612-db22-481f-9450-07b5bbd6443e
-[2J8[0mplayit (v0.15.23): 1726276062292 tunnel running, 0 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-Add tunnels here: https://playit.gg/account/agents/0bcf3612-db22-481f-9450-07b5bbd6443e
-[2J8[0mplayit (v0.15.23): 1726276065357 tunnel running, 0 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-Add tunnels here: https://playit.gg/account/agents/0bcf3612-db22-481f-9450-07b5bbd6443e
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1726276080465 tunnel running, 0 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-Add tunnels here: https://playit.gg/account/agents/0bcf3612-db22-481f-9450-07b5bbd6443e
-[2J8[0mplayit (v0.15.23): 1726276083527 tunnel running, 0 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-Add tunnels here: https://playit.gg/account/agents/0bcf3612-db22-481f-9450-07b5bbd6443e
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1726276098669 tunnel running, 0 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-Add tunnels here: https://playit.gg/account/agents/0bcf3612-db22-481f-9450-07b5bbd6443e
-[2J8[0mplayit (v0.15.23): 1726276101737 tunnel running, 0 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-Add tunnels here: https://playit.gg/account/agents/0bcf3612-db22-481f-9450-07b5bbd6443e
-[2J8[0mplayit (v0.15.23): 1726276104797 tunnel running, 0 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-Add tunnels here: https://playit.gg/account/agents/0bcf3612-db22-481f-9450-07b5bbd6443e
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1726276119888 tunnel running, 0 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-Add tunnels here: https://playit.gg/account/agents/0bcf3612-db22-481f-9450-07b5bbd6443e
-[2J8[0mplayit (v0.15.23): 1726276122950 tunnel running, 0 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-Add tunnels here: https://playit.gg/account/agents/0bcf3612-db22-481f-9450-07b5bbd6443e
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-bd6443e
-[2J8[0mplayit (v0.15.23): 1726276121635 tunnel running, 0 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-Add tunnels here: https://playit.gg/account/agents/0bcf3612-db22-481f-9450-07b5bbd6443e
-[2J8[0mplayit (v0.15.23): 1726276124697 tunnel running, 0 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-Add tunnels here: https://playit.gg/account/agents/0bcf3612-db22-481f-9450-07b5bbd6443e
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
+fee-shame.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
